@@ -1,0 +1,19 @@
+.wrap{
+    display: flex;
+    align-items: center;
+}
+
+.selectWrap{
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+    border: 2px solid #d3d3d3;
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+
+.select{
+    outline: none;
+    border: 0;
+    margin-left: 10px;
+}

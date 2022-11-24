@@ -1,0 +1,17 @@
+.servers{
+    display: flex;
+    align-items: center;
+}
+
+.title{
+    margin-right: 10px;
+}
+
+.row{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.select{
+    margin-right: 10px;
+}
